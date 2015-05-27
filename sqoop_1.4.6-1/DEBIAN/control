@@ -1,0 +1,9 @@
+Package: sqoop
+Version: 1.4.6-1
+Section: base
+Priority: optional
+Architecture: all
+Depends: openjdk-7-jdk, hadoop_client_2.2.0-1
+Maintainer: Botond Balazs <balazsbotond@gmail.com>
+Description: Sqoop command-line application 1.4.5
+ Apache Sqoop(TM) is a tool designed for efficiently transferring bulk data between Apache Hadoop and structured datastores such as relational databases.

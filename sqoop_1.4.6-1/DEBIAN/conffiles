@@ -1,0 +1,4 @@
+/etc/sqoop/sqoop-env.sh
+/etc/sqoop/sqoop-env.cmd
+/etc/sqoop/sqoop-site.xml
+/etc/sqoop/oraoop-site-template.xml
